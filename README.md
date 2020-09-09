@@ -2,7 +2,7 @@
 
 #### project setup
 
-- git clone 
+- `git clone https://github.com/amrelsayed/laravel-excel-importer.git`
 - `composer install`
 - `cp .env.example .env`
 - change MAIL_TO in .env file to the email you want receive emails on
